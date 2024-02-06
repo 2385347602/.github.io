@@ -1,6 +1,6 @@
 {
-    "name": "刘洋の小窝",
-    "short_name": "刘洋の小窝",
+    "name": "Ariasakaの小窝", 
+    "short_name": "Ariasakaの小窝", 
     "theme_color": "var(--lyx-theme)", 
     "background_color": "var(--lyx-theme)",
     "display": "standalone",

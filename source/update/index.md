@@ -9,7 +9,7 @@ Acryple v1.0.0 2022-10-23
 经过了深思熟虑，博客主题独立啦！
 
 现在的主题叫做Acryple，具体见：
-{% link 博客正式独立主题啦！,刘洋の小窝,yisous.xyz/posts/a1078b2d %}
+{% link 博客正式独立主题啦！,Ariasakaの小窝,yisous.xyz/posts/a1078b2d %}
 
 目前博客有：
 

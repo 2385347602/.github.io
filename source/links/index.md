@@ -53,7 +53,7 @@ type: "links"
 {% tabs  %}
 <!-- tab Butterfly & MengD -->
 ```yaml
-- name: 刘洋の小窝
+- name: Ariasakaの小窝
   link: https://yisous.xyz
   avatar: https://bu.dusays.com/2022/12/15/639a9ebbbc1ad.jpg
   descr: 人有悲欢离合 月有阴晴圆缺
@@ -64,7 +64,7 @@ type: "links"
 <!-- tab fluid -->
 ```yaml
 - {
-  title: '刘洋の小窝',
+  title: 'Ariasakaの小窝',
   intro: '人有悲欢离合 月有阴晴圆缺',
   link: 'https://yisous.xyz/',
   image: 'https://bu.dusays.com/2022/12/15/639a9ebbbc1ad.jpg'
@@ -74,7 +74,7 @@ type: "links"
 
 <!-- tab volantis -->
 ```yaml
-- title: 刘洋の小窝
+- title: Ariasakaの小窝
   avatar: https://bu.dusays.com/2022/12/15/639a9ebbbc1ad.jpg
   url: https://yisous.xyz/
   screenshot: https://yisous.xyz/img/siteshot.png
@@ -85,7 +85,7 @@ type: "links"
 
 <!-- tab html -->
 ```html
-<a href="https://yisous.xyz"><img src="https://bu.dusays.com/2022/12/15/639a9ebbbc1ad.jpg" alt="avatar">刘洋の小窝</a>
+<a href="https://yisous.xyz"><img src="https://bu.dusays.com/2022/12/15/639a9ebbbc1ad.jpg" alt="avatar">Ariasakaの小窝</a>
 ```
 <!-- endtab -->
 
