@@ -125,7 +125,8 @@ search:
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   - type: git
-    repo: git@github.com:2385347602/2385347602.github.io.git
+#    repo: git@github.com:2385347602/2385347602.github.io.git
+    repo: https://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@github.com/pandaoh/pandaoh.github.io.git,master # 注意此处的 {$GH_TOKEN} 请替换成我们之前生成的 token 内容，此仓库地址是我们博客静态文件最终存放的仓库地址，即搭建教学中开通 Github Pages 服务的那个仓库地址。
     branch: main
 live2d:
   enable: false
