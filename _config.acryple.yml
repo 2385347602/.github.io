@@ -5,7 +5,7 @@
 menu:
   首页: / ||fa fa-home
   文章 ||  fa fa-newspaper:
-    随便逛逛: javascript:toRandomPost() || fa fa-paper-plane
+    随便逛逛333333333: javascript:toRandomPost() || fa fa-paper-plane
     归档: /archives/ || fa fa-archive
     分类: /categories/ || fas fa-folder-open
     标签: /tags/ || fas fa-tags
